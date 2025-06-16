@@ -36,7 +36,13 @@ npm run reset-project
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 ### Images
-<img src="https://github.com/ShreySinha02/medRemind/blob/main/imageSs/1000042837.jpg?raw=true" alt="App Screenshot" style="width:300px; border-radius:10px"/>
+<p align="center">
+  <img src="https://github.com/ShreySinha02/medRemind/blob/main/imageSs/1000042837.jpg?raw=true" width="200" title="Screen 1"/>
+  <img src="https://github.com/ShreySinha02/medRemind/blob/main/imageSs/1000042838.jpg?raw=true" width="200" title="Screen 2"/>
+  <img src="https://github.com/ShreySinha02/medRemind/blob/main/imageSs/1000042839.jpg?raw=true" width="200" title="Screen 3"/>
+  <img src="https://github.com/ShreySinha02/medRemind/blob/main/imageSs/1000042840.jpg?raw=true" width="200" title="Screen 4"/>
+  <img src="https://github.com/ShreySinha02/medRemind/blob/main/imageSs/1000042841.jpg?raw=true" width="200" title="Screen 5"/>
+</p>
 
 
 /expo/expo): View our open source platform and contribute.
